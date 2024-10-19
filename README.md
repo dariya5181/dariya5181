@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dariya5181
-- 👀 just started the odin project 
+- 👀 currently studying the cs50p 
 
 <!---
 dariya5181/dariya5181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
